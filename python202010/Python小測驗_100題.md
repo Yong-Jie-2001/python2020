@@ -27,6 +27,7 @@ print("Hello, Python!")
 
 (A) (1)ksu，(2)school    (B) (1) school，(2) ksu  
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
+(B)
 ```
 ```
 4.要檢查變數資料型別 底下程式需使用哪個函數:
