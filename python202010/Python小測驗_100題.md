@@ -37,6 +37,7 @@ y = 65535
 print(______(y))
 
 (A) str   (B) sum   (C) int   (D)type
+(D)
 
 ```
 ```
@@ -47,6 +48,8 @@ y = 65535
 print(type(y))
 
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
+(A)
+
 ```
 ```
 6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
